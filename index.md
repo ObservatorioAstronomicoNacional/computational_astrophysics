@@ -1,6 +1,6 @@
-# Data Analysis + Computational Astrophysics
+## Data Analysis + Computational Astrophysics
 
-## Current Projects
+### Current Projects
 
 1. Gravitational N-Body  Problem
 2. Synthetic Ligth-Curve of a Star-Exoplanet System

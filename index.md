@@ -1,4 +1,5 @@
-# 
+# Data Analysis + Computational Astrophysics
+
 ## Current Projects
 
 1. Gravitational N-Body  Problem

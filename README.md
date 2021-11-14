@@ -1,3 +1,3 @@
-# Testing
+# OBSERVATORIO ASTRONÓMICO NACIONAL (OAN)
 
-Página del Observatorio Astron
+Página del Observatorio Astronómico Nacional de la Universidad Nacional de Colombia.

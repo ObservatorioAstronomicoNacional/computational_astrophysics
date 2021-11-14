@@ -5,7 +5,8 @@ Página del Observatorio Astronómico Nacional de la Universidad Nacional de Col
 ## Data Analysis + Computational Astrophysics
 ### Current Projects
 
-    Gravitational N-Body Problem
-    Synthetic Ligth-Curve of a Star-Exoplanet System
-    Binary System Coalescence
+1. Gravitational N-Body  Problem
+2. Synthetic Ligth-Curve of a Star-Exoplanet System
+3. Binary System Coalescence
+
 
